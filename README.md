@@ -1,4 +1,4 @@
-# Grnius Online Education website
+# Genius Online Education website
 
 ### This is a website about education organization , I use some tools to build it like ( HTML , CSS , BOOTSRAP Library ).
 #### this site for training about what I learning in EraaSoft course 
